@@ -1,0 +1,49 @@
+
+body {
+	background-color: green;
+}
+
+div {
+	display: block;
+	text-align: center;
+	margin-top: 40px;
+
+}
+form {
+	background-color: #fefefe;
+	width: 30%;
+	min-width: 400px;
+	height: 60%;
+	padding-left: 30px;
+	padding-top: 10px;
+	padding-right: 30px;
+	display: inline-block;
+	text-align: left;
+	box-shadow: 2px 1px 15px #333;
+
+}
+
+#submit {
+	background-color:green;
+	color: white;
+	border-radius: 5px;
+	border: 0px;
+}
+input {
+	width: 100%;
+	height: 35px;
+	display: block;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	padding-left: 4px;
+}
+
+#credit {
+	text-align: center;
+}
+
+
+
+#textarea {
+	width: 400px;
+}
